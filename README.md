@@ -1,3 +1,4 @@
+Just going through the Github Codespaces quick start.
 
 # Haikus for Codespaces
 
